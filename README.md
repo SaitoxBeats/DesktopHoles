@@ -3,6 +3,9 @@
 Desktop Holes is a lightweight Windows tray app that creates an edge "hole" (a reserved strip) on your desktop.
 It uses Windows AppBar APIs to dock a borderless form to a monitor edge, so regular windows stay out of that area.
 
+[![Demo Video](https://file.garden/Z5fpJocFXF3TjRhg/desktopholesVideosThumb.png)](https://file.garden/Z5fpJocFXF3TjRhg/DesktopHoles%20Video.mp4)
+Music: Fat Hands Big Stash - Professor Creepshow
+
 ## What the app does
 
 - Runs in the system tray.
